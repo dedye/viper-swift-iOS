@@ -1,0 +1,24 @@
+PODS:
+  - PKHUD (5.0.0)
+  - R.swift (4.0.0):
+    - R.swift.Library (~> 4.0.0)
+  - R.swift.Library (4.0.0)
+
+DEPENDENCIES:
+  - PKHUD (~> 5.0.0)
+  - R.swift (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - PKHUD
+    - R.swift
+    - R.swift.Library
+
+SPEC CHECKSUMS:
+  PKHUD: 3c001512c6e002091184197a8de7a20420786e3b
+  R.swift: d6a5ec2f55a8441dc0ed9f1f8b37d7d11ae85c66
+  R.swift.Library: c3af34921024333546e23b70e70d0b4e0cffca75
+
+PODFILE CHECKSUM: 9b4fb5e6514acc2a60b8591ab55b28a72489a767
+
+COCOAPODS: 1.12.1
